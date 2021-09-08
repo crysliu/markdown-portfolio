@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+my favorite things:
+-cats
+-mushrooms
+-peperomia
+  -red log
+  -obtusifolia
+  -watermelon
